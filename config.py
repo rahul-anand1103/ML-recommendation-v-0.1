@@ -1,0 +1,11 @@
+SQL_CREDIENTIAL={
+    "DATABASE_HOST":"15.207.227.193",
+    "DATABASE_PORT":"5432",
+    "DATABASE_NAME":"crux_dev",
+    "DATABASE_USERNAME":"crux_dev",
+    "DATABASE_PASSWORD":"Ajency#123"
+}
+MAIN_DATA_PATH="data/"
+PATH_PREPROCESSED="data/preprocessed_folder/"
+PATH_ORIGINAL="data/original/"
+PATH_MATRIX="data/matrix_similarity/"
